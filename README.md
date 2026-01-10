@@ -1,4 +1,4 @@
-# PI_CRNN_RBC_2025
+# PI_CRNN_RBC_2026
 
 Supplemental codes for "A Physics-Informed Spatiotemporal Deep Learning Framework for Turbulent Systems".
 
